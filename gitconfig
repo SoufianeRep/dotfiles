@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ezzine.soufiane@gmail.com
+	name = Soufiane Ezzine
